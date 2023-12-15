@@ -1,6 +1,6 @@
 ## The EM Foundation
 
-A non-profit organization chartered to promote, sustain, and evolve **The EM Programming Language** within the broader embedded systems community:&nbsp;&nbsp;  visit [docs.openem.org](docs.openem.org) to learn more about this novel language and its runtime environment. 
+A non-profit organization chartered to promote, sustain, and evolve **The EM Programming Language** within the broader embedded systems community:&nbsp;&nbsp;  visit [docs.openem.org](https://docs.openem.org/) to learn more about this novel language and its runtime environment. 
 
 <!--
 
